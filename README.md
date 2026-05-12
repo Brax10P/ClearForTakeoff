@@ -9,4 +9,4 @@ Open .asm file in simulator\
 Press the wrench\
 Go to simulator in top right corner\
 **IMPORTANT**\
-Click view -> actual size -> view again -> zoom out ONCE (this is for the graphics of the animation)\
+Click view -> actual size -> view again -> zoom out ONCE (this is for the graphics of the animation)
